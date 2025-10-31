@@ -1,9 +1,15 @@
-import RandomComponent from "./RandomComponent";
+
+import Counter from "./Counter";
+
+
+
 
 function App() {
   return (
     <>
-      <RandomComponent />
+
+    <Counter />
+
     </>
   );
 }
