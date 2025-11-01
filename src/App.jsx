@@ -1,14 +1,5 @@
-import Counter from "./Counter";
-
-
-
 function App() {
-  
-  return (
-    <>
-    <Counter />
-    </>
-  );
+  return <></>;
 }
 
-export default App
+export default App;
