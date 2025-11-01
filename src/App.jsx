@@ -1,11 +1,5 @@
-import Cars from "./Cars";
-
 function App() {
-  return (
-    <>
-      <Cars />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
