@@ -1,11 +1,5 @@
-import OnChange from "./OnChange";
-
 function App() {
-  return (
-    <>
-      <OnChange />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
