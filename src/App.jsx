@@ -1,11 +1,5 @@
-import ColorPicker from "./ColorPicker";
-
 function App() {
-  return (
-    <>
-      <ColorPicker />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
