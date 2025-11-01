@@ -1,10 +1,5 @@
-import Food from "./Food.jsx";
 function App() {
-  return (
-    <>
-      <Food />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
